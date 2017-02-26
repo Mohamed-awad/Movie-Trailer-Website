@@ -15,6 +15,7 @@ you need to install :-
 just open the directory of project and open fresh_tomatoes.html file
 
 ```   ** OR ** ```
+
 just open the directory of project and run entertainment_center.py file
 
-#that`s it
+#that`s it 
