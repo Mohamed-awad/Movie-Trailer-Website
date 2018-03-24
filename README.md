@@ -22,4 +22,4 @@ OR
 
 just open the directory of project and run entertainment_center.py file
 
-# that's it 
+
